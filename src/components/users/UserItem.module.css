@@ -1,9 +1,13 @@
-.name p {
+.userDataContainer {
+    cursor: pointer;
+}
+
+.name {
     font-size: 1rem;
     font-weight: 700;
 }
 
-.email p {
+.email {
     font-style: italic;
     font-size: .8rem;
 }

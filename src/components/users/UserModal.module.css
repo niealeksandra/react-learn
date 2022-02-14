@@ -1,0 +1,25 @@
+.modalName {
+    font-weight: 700;
+}
+
+.modalDataCompany {
+    padding: 10px 0px 20px 0px;
+}
+
+.modalDataCompany p {
+    font-size: .8rem;
+}
+
+.modalClose {
+    width: 100%;
+    background-color: #5246ff;
+    border: none;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}   
+
+.modalDataCompany p:first-child {
+    font-weight: 700;
+}
