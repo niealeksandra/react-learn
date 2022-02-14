@@ -1,0 +1,45 @@
+.control input {
+    border-radius: 5px;
+    border: 1px solid #cbc7ff;
+    padding: 5px;
+    margin: 5px 0px 5px 5px;
+    width: 250px;
+}
+
+.control label {
+    font-size: .8rem;
+}
+
+.control input:focus {
+    outline: none;
+}
+
+.control input[type=checkbox] {
+    appearance: none;
+    border-radius: 5px;
+    border: 1px solid #cbc7ff;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
+
+.control input[type=checkbox]:checked {
+    background-color: #5246ff;
+}
+
+
+.control {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form {
+    margin-bottom: 10px;
+}
+
+.formContainer {
+    margin-bottom: 15px;
+}
+

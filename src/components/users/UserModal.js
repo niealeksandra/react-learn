@@ -14,7 +14,7 @@ const UserModal = (props) => {
                     <p>{props.user.company.catchPhrase}</p>
                     <p>{props.user.company.bs}</p>
                 </div>
-                <button className={classes.modalClose} onClick={props.onClose}>Close</button>
+                <button className="btn" onClick={props.onClose}>Close</button>
             </Modal>
         </div>
     )

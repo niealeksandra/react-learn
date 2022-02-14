@@ -1,0 +1,13 @@
+.day {
+    font-weight: 300;
+}
+
+.priority {
+    border-left: 2px solid #5246ff;
+    padding-left: 10px;
+}
+
+.taskContainer {
+    border-left: 2px solid #cbc7ff;
+    padding-left: 10px;
+}
